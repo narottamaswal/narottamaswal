@@ -1,4 +1,4 @@
-### hi, i'm Narottam, an aspiring full stack web developer, freelancer and beginner competetive programmer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+#### hi, i'm Narottam, an aspiring full stack web developer, freelancer and beginner competetive programmer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 - 🤠 My Portfolio - https://narottamaswal.herokuapp.com/
 - </> LeetCode - https://leetcode.com/narottam12/
@@ -12,10 +12,10 @@
   <br />
   <br />
 </div>
-
+<div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narottamaswal&show_icons=true&theme=vue-dark&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=narottamaswal&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
-
+</div>
 
 
