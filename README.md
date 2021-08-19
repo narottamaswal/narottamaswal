@@ -6,13 +6,6 @@
 - 💼 any freelance work? do reach, [email](mailto:narottam98678@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narottamaswal&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos </small>
-  <br />
-  <br />
-</div>
-<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narottamaswal&show_icons=true&theme=vue-dark&hide_border=true"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=narottamaswal&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
