@@ -1,7 +1,6 @@
-#### Hi, I'm Narottam, an aspiring full stack web developer, freelancer and beginner competitive programmer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+#### Hi, I'm Narottam, an aspiring full stack web developer and freelancer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 - 🤠 My Portfolio - https://narottamaswal.herokuapp.com/
-- </> LeetCode - https://leetcode.com/narottam12/
 - 🙋‍♀️ LinkedIn Profile - <a href="https://www.linkedin.com/in/narottam-aswal/">Narottam Aswal</a>
 - 💼 any freelance work? do reach, [email](mailto:narottam98678@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
