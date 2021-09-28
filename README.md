@@ -1,4 +1,4 @@
-<h4 align="left">About Me:</h4>
+<h2 align="left">About Me:</h2>
 
 #### Hi, I'm Narottam, an aspiring full stack web developer and freelancer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -14,7 +14,7 @@
 
 
 <br>
-<h4 align="left">Connect:</h4>
+<h2 align="left">Connect:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/narottam-aswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NarottamAswal" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/narottam98678" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="30" width="30" /></a>&nbsp;&nbsp;
@@ -28,7 +28,7 @@
 
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Technology Stack:</h2>
 
 <p align="left"> 
   
