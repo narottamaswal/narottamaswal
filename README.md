@@ -11,8 +11,6 @@
 </div>
 
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=narottamaswal alt=NarottamAswal/> </p>
-
 
 
 <br>
