@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/narottam-aswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NarottamAswal" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/narottam98678" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="30" width="30" /></a>&nbsp;&nbsp;
-  <a href="https://public.tableau.com/profile/narottam12" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="NarottamAswal" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/narottam12/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="NarottamAswal" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://twitter.com/AswalNarottam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NarottamAswal" height="30" width="40" /></a>
  
 </p>
