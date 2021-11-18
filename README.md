@@ -1,6 +1,7 @@
 <h2 align="left">About Me:</h2>
 
 #### Hi, I'm Narottam, an aspiring full stack web developer and freelancer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm responsible for creating bugs in your code.
 
 - 🤠 My Portfolio - https://narottamaswal.herokuapp.com/
 - 🙋‍♀️ LinkedIn Profile - <a href="https://www.linkedin.com/in/narottam-aswal/">Narottam Aswal</a>
