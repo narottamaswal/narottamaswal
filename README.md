@@ -10,7 +10,6 @@ I'm responsible for creating bugs in your code :)
 
 <h2 align="left">Github Stats:</h2>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narottamaswal&show_icons=true&theme=vue-dark&hide_border=true"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=narottamaswal&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
 </div>
