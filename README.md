@@ -4,7 +4,7 @@
 
 - 🤠 My Portfolio - https://narottamaswal.herokuapp.com/
 - 🙋‍♀️ LinkedIn Profile - <a href="https://www.linkedin.com/in/narottam-aswal/">Narottam Aswal</a>
-- 💼 any freelance work? do reach, [narottsm98678@gmail.com](mailto:narottam98678@gmail.com) :)
+- 💼 any freelance work? do reach, [narottam98678@gmail.com](mailto:narottam98678@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 <h2 align="left">Github Stats:</h2>
