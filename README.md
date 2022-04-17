@@ -7,7 +7,6 @@
 - 💼 any freelance work? do reach, [narottam98678@gmail.com](mailto:narottam98678@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-<br>
 <h2 align="left">Connect:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/narottam-aswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NarottamAswal" height="30" width="40" /></a>&nbsp;&nbsp;
