@@ -1,6 +1,6 @@
 # <h2 align="left">About Me:</h2>
 
-#### Hi, I'm Narottam Aswal, 21 y/o student, an aspiring full stack web developer and a freelancer from Mumbai, India. Currently working as SDE Intern at PaynNearby, Mumbai. 
+#### Hi, I'm Narottam Aswal, 21 y/o student, an aspiring full stack web developer and a freelancer from Mumbai, India. Currently working as SDE Intern at PayNearby, Mumbai. 
 #### My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 - 🤠 My Portfolio - https://narottamaswal.herokuapp.com/
@@ -17,5 +17,10 @@
   <a href="https://twitter.com/AswalNarottam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NarottamAswal" height="30" width="40" /></a>
  
 </p>
+<h2 align="left">Technologies & Interests:</h2>
+#### Programming: C/C++, Java, Python3
+#### Frameworks/Libraries: Django, Spring Boot, Expo, React.js, Django REST Framework, React Native, Spacy
+#### Databases: MySQL, Google Firebase, PostgreSQL, NoSQL
+#### Other Tools/Architectures: Git, Postman, MVC, MVT, JSON, XML, REST, NumPy, Pandas, STL, ORM, OOPS, JDBC, JSP
 
 <h2 align="left">Repositories:</h2>
