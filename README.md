@@ -7,13 +7,6 @@
 - 💼 any freelance work? do reach, [narottam98678@gmail.com](mailto:narottam98678@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-<h2 align="left">Github Stats:</h2>
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=narottamaswal&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
-</div>
-
-
 <br>
 <h2 align="left">Connect:</h2>
 <p align="left">
