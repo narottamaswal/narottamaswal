@@ -1,6 +1,6 @@
 <h2 align="left">About Me:</h2>
 
-#### Hi, I'm Narottam, an aspiring full stack web developer and freelancer from India. Currently working as SDE Intern at PaynNearby, Mumbai. 
+#### Hi, I'm Narottam Aswal, 21 y/o student, an aspiring full stack web developer and a freelancer from Mumbai, India. Currently working as SDE Intern at PaynNearby, Mumbai. 
 #### My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 - 🤠 My Portfolio - https://narottamaswal.herokuapp.com/
