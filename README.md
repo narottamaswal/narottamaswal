@@ -19,10 +19,10 @@
 </br>
 <h2 align="left">Technologies & Interests:</h2>
 </br>
-##### - Software Development and Design
+- Software Development and Design
 </br>
-##### - Cloud and DevOps
+- Cloud and DevOps
 </br>
-##### - Hybrid Application Development
+- Hybrid Application Development
 
 <h2 align="left">Repositories:</h2>
