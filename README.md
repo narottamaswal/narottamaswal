@@ -18,6 +18,6 @@
  
 </p>
 <h2 align="left">Technologies & Interests:</h2>
-#### Software Development and Design, DevOps, Hybrid Application Development
+- Software Development and Design, DevOps, Hybrid Application Development
 
 <h2 align="left">Repositories:</h2>
