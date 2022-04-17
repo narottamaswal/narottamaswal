@@ -25,4 +25,4 @@
 </br>
 - Hybrid Application Development
 
-<h2 align="left">Repositories:</h2>
+<h2 align="left">Projects & Repositories:</h2>
