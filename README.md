@@ -6,7 +6,7 @@
 - 🤠 My Portfolio - https://narottamaswal.herokuapp.com/
 - 🙋‍♀️ LinkedIn - <a href="https://www.linkedin.com/in/narottam-aswal/">Narottam Aswal</a>
 - 💼 Email - [narottam98678@gmail.com](mailto:narottam98678@gmail.com) 
-- 🔗 Twitter - https://twitter.com/wolfstorm_01 ^^
+- 🔗 I tweet at - https://twitter.com/wolfstorm_01 
 - 💬 ask me about anything, i am happy to help :)
 
 <h2 align="left">Connect:</h2>
