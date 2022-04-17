@@ -16,7 +16,9 @@
   <a href="https://twitter.com/AswalNarottam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NarottamAswal" height="30" width="40" /></a>
  
 </p>
+<br>
 <h2 align="left">Technologies & Interests:</h2>
+<br>
 - Software Development and Design
 - Cloud and DevOps
 - Hybrid Application Development
