@@ -18,9 +18,6 @@
  
 </p>
 <h2 align="left">Technologies & Interests:</h2>
-#### Programming: C/C++, Java, Python3
-#### Frameworks/Libraries: Django, Spring Boot, Expo, React.js, Django REST Framework, React Native, Spacy
-#### Databases: MySQL, Google Firebase, PostgreSQL, NoSQL
-#### Other Tools/Architectures: Git, Postman, MVC, MVT, JSON, XML, REST, NumPy, Pandas, STL, ORM, OOPS, JDBC, JSP
+#### Software Development and Design, DevOps, Hybrid Application Development
 
 <h2 align="left">Repositories:</h2>
