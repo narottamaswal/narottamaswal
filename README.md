@@ -4,8 +4,6 @@
 #### Hi, I'm Narottam Aswal, 23 y/o Software Engineer from Mumbai currently working in PayNearby.
 #### My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-**About me**
-
 - 💼 Backend Engineer at [PayNearby](https://paynearby.in/)
 
 - 📈 I love building microservices and designing systems from scratch.
@@ -15,7 +13,6 @@
 - 💼 Email - [narottamaswalwork@gmail.com](mailto:narottamaswalwork@gmail.com)
   
 - 💬 ask me about anything, i am happy to help :)
-
 
 <h2 align="left">Connect:</h2>
 <p align="left">
