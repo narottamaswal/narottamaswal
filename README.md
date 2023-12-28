@@ -1,19 +1,22 @@
 <img align="center" src="https://raw.githubusercontent.com/narottamaswal/narottamaswal.github.io/main/images/sss.png" alt="NarottamAswal" /></a>&nbsp;&nbsp;
 # <h2 align="left">About Me:</h2>
 
-#### Hi, I'm Narottam Aswal, 23 y/o Software Engineer from Mumbai currently working in PayNearby.
+#### Hi, I'm Narottam Aswal, 23 y/o Software Engineer from Mumbai currently working in PayNearby. Ive 2+ years of experience in building scalable applications in insurance and fintech domain.
 #### My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-- 💼 Backend Engineer at [PayNearby](https://paynearby.in/)
+- 💼 &nbsp;Backend Engineer at [PayNearby](https://paynearby.in/)
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 👨‍💻 &nbsp;Read more about my projects at [narottamaswal.github.io](https://narottamaswal.github.io)
+- 📈 &nbsp;I love building microservices and designing systems from scratch.
+- 🙋‍♀️ &nbsp;LinkedIn - <a href="https://www.linkedin.com/in/narottamaswal/">Narottam Aswal</a>
+- 💼 &nbsp;Email - [narottamaswalwork@gmail.com](mailto:narottamaswalwork@gmail.com)
+- 💬 &nbsp;ask me about anything, i am happy to help :)
 
-- 📈 I love building microservices and designing systems from scratch.
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=narottamaswal&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
   
-- 🙋‍♀️ LinkedIn - <a href="https://www.linkedin.com/in/narottamaswal/">Narottam Aswal</a>
-
-- 💼 Email - [narottamaswalwork@gmail.com](mailto:narottamaswalwork@gmail.com)
-  
-- 💬 ask me about anything, i am happy to help :)
-
 <h2 align="left">Connect:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/narottamaswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NarottamAswal" height="30" width="40" /></a>&nbsp;&nbsp;
@@ -31,4 +34,4 @@
 </br>
 - Hybrid Application Development
 
-<h2 align="left">Projects & Repositories:</h2>
+
