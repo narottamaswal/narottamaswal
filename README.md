@@ -1,3 +1,4 @@
+<img align="center" src="https://raw.githubusercontent.com/narottamaswal/narottamaswal.github.io/main/images/sss.png" alt="NarottamAswal" /></a>&nbsp;&nbsp;
 # <h2 align="left">About Me:</h2>
 
 #### Hi, I'm Narottam Aswal, 23 y/o Software Engineer from Mumbai currently working in PayNearby.
