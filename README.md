@@ -1,7 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/narottamaswal/narottamaswal.github.io/main/images/sss.png" alt="NarottamAswal" /></a>&nbsp;&nbsp;
 # <h2 align="left">About Me:</h2>
 
-#### Hi, I'm Narottam Aswal, 23 y/o Software Engineer from Mumbai currently working in PayNearby. Ive 2+ years of experience in building scalable applications in insurance and fintech domain.
+#### Hi, I'm Narottam Aswal, 23 y/o Software Engineer from Mumbai currently working in PayNearby. I've 2+ years of experience in building scalable applications in insurance and fintech domain.
 #### My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 - 💼 &nbsp;Backend Engineer at [PayNearby](https://paynearby.in/)
